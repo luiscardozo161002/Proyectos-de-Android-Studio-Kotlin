@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prestaciones_luis</string>
+    <string name="guardar">CALCULAR</string>
+    <string name="sueldo">Sueldo</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Primera App en Kotlin</string>
+    <string name="hola_mundo">¡Hola Mundo! Kotlin</string>
+    <string name="input_nombre">Ingrese su nombre</string>
+    <string name="button_saludar">Saludar</string>
+    <string name="btn_calcular_venta">Total</string>
+    <string name="btn_precio_por_metro_cuadrado">Precio Por Metro Cuadrado</string>
+    <string name="btn_medida_de_largo">Medida de Largo</string>
+</resources>

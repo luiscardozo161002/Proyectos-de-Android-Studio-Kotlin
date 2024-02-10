@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica1_JuanManuel_MiguelIsidro</string>
+    <string name="titulo">Bienvenido a la calculadora</string>
+    <string name="pedir_salario">Ingresa tu salario</string>
+    <string name="pedir_meses">Ingresa los meses que trabajaste</string>
+    <string name="pedir_dias">Ingresa los dias</string>
+    <string name="pedir_ano">Ingresa el año</string>
+    <string name="pedir_nombre">Ingresa tu nombre</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287092047360",
+    "project_id": "app-libros---kotlin-68bee",
+    "storage_bucket": "app-libros---kotlin-68bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287092047360:android:1c3df79efcf1ac98dc22e5",
+        "android_client_info": {
+          "package_name": "com.tesji.applibros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFisZ9hHBvaFrgLkMr_CdiB1dLoC02IkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

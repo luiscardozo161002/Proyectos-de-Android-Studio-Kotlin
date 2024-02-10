@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">App Libros PDF</string>
+
+
+    <string name="Menu_panel">Panel</string>
+    <string name="Menu_cuenta">Cuenta</string>
+
+    <string name="Titulo_RL_Admin">Titulo</string>
+
+    <string name="Txt_rol">¡Bienvenid@(s)! Administrador@(s)</string>
+    <string name="Btn_rol_administrador">Administrador</string>
+    <string name="Btn_rol_cliente">Cliente</string>
+
+
+    <string name="TxtRegistroAdmin">Registrar Administrador</string>
+
+    <string name="Et_nombres_admin">Nombres</string>
+    <string name="Et_email_admin">Email</string>
+    <string name="Et_password_admin">Contraseña</string>
+    <string name="Et_R_password_admin">Repita la contraseña</string>
+    <string name="Btn_registrar_admin">Registrarme</string>
+    <string name="Txt_tengo_cuenta">Ya tengo cuenta.</string>
+
+
+    <string name="CerrarSesionAdmin">Cerrar Sesión</string>
+    <string name="TxtLoginAdmin">Login Administradores</string>
+
+
+    <string name="Btn_login_admin">Ingresar</string>
+
+
+    <string name="Btn_agregar_categoria">Agregar Categoria</string>
+    <string name="Txt_agregar_categoria">Agregar Categoria</string>
+
+    <string name="Et_categoria">Ingrese categoria</string>
+    <string name="Agregar_categoria_BD">Agregar</string>
+
+    <string name="Item_nombre_cat_a">Nombre de categoria</string>
+
+    <string name="Buscar_categoria">Buscar categoria</string>
+
+
+    <string name="Txt_agregar_libro">Agregar Libro</string>
+
+
+    <string name="Et_titulo_libro">Titulo Libro</string>
+    <string name="Et_descripcion_libro">Descripción libro</string>
+    <string name="Tv_categoria_libro">Categoria</string>
+
+
+    <string name="Btn_subir_libro">Subir</string>
+
+    <string name="Txt_titulo_libro">Libros</string>
+    <string name="Txt_categoria_libro">Categoria</string>
+    <string name="Et_buscar_libro_admin">Buscar libro</string>
+
+    <string name="Txt_titulo_libro_item">Titulo libro</string>
+    <string name="Txt_descripcion_libro_item">Descripcion libro</string>
+    <string name="Txt_categoria_libro_admin">Categoria</string>
+    <string name="Txt_tamanio_libro_admin">5MB</string>
+    <string name="Txt_fecha_libro_admin">dd/MM/yyyy</string>
+
+
+    <string name="Txt_actualizar_libro">Actualizar Libro</string>
+    <string name="Btn_actualizar_libro">Actualizar</string>
+
+
+    <string name="Txt_detalle_libro">Detalle libro</string>
+
+    <string name="titulo_libro_D">Titulo libro</string>
+    <string name="Txt_categoria_D">Categoria: </string>
+    <string name="categoria_D"> -- </string>
+    <string name="Txt_fecha_D">Fecha: </string>
+    <string name="fecha_D"> -- </string>
+    <string name="Txt_tamanio_D">Tamaño: </string>
+    <string name="tamanio_D"> -- </string>
+    <string name="Txt_vistas_D">Vistas: </string>
+    <string name="vistas_D"> -- </string>
+    <string name="Txt_descargas_D">Descargas: </string>
+    <string name="descargas_D"> -- </string>
+    <string name="Txt_paginas_D">Páginas: </string>
+    <string name="paginas_D"> -- </string>
+    <string name="Txt_descripcion_D">Descripción: </string>
+    <string name="descripcion_D"> -- </string>
+
+    <string name="Btn_leer_libro">Leer</string>
+
+    <string name="Txt_leer_libro">Lectura de libro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

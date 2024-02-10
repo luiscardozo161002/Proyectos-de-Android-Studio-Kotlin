@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Primera APP con Kotlin</string>
+    <string name="empresa">KüBe Solution!</string>
+    <string name="sueldo">Sueldo</string>
+    <string name="guardar">CALCULAR</string>
+    <string name="meses">Meses</string>
+    <string name="dias">Dias</string>
+</resources>

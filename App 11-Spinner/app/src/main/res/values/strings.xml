@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="app_titulo">.::PRACTICA SPINNER::.</string>
+    <string name="a_o">AÑO</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="nuevo">NUEVO</string>
+    <string name="salir">SALIR</string>
+</resources>
