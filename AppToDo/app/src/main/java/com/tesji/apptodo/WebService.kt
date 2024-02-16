@@ -14,7 +14,7 @@ import retrofit2.http.Path
 
 object AppConstantes {
     const val BASE_URL = "http://10.0.10.208:3000"
-    //const val BASE_URL = "https://api-restful-nodejs-mysql-production.up.railway.app"
+    //const val BASE_URL = "https://api-node-mysql-todolist-production.up.railway.app"
 }
 
 interface WebService {
